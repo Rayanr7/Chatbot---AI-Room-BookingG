@@ -88,3 +88,7 @@ Booking Confirmation Email
 ## 📄 License
 
 This project is intended for educational and learning purposes.
+
+## Project Snapshot
+This project was prepared for the December 2025 repository history update.
+
