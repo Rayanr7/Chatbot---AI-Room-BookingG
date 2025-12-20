@@ -25,7 +25,7 @@
           "text": "nevermind"
         }
       ],
-      "description": "Cancel the current request"
+      "description": "Room booking chatbot skill"Cancel the current request"
     },
     {
       "intent": "General_Greetings",
@@ -58,7 +58,7 @@
           "text": "How r u?"
         }
       ],
-      "description": "Greetings"
+      "description": "Room booking chatbot skill"Greetings"
     },
     {
       "intent": "Goodbye",
@@ -82,7 +82,7 @@
           "text": "so long"
         }
       ],
-      "description": "Good byes"
+      "description": "Room booking chatbot skill"Good byes"
     },
     {
       "intent": "Help",
@@ -109,7 +109,7 @@
           "text": "what can i say"
         }
       ],
-      "description": "Ask for help"
+      "description": "Room booking chatbot skill"Ask for help"
     },
     {
       "intent": "Hotel_Hours",
@@ -253,7 +253,7 @@
           "text": "will you open on christmas"
         }
       ],
-      "description": "Find business hours."
+      "description": "Room booking chatbot skill"Find business hours."
     },
     {
       "intent": "Hotel_Location",
@@ -334,7 +334,7 @@
           "text": "which cross streets are you on"
         }
       ],
-      "description": "Locate a physical hotel location or an address."
+      "description": "Room booking chatbot skill"Locate a physical hotel location or an address."
     },
     {
       "intent": "Room_Bookings",
@@ -376,7 +376,7 @@
           "text": "When can I come there?"
         }
       ],
-      "description": "Room Booking"
+      "description": "Room booking chatbot skill"Room Booking"
     },
     {
       "intent": "Thanks",
@@ -406,7 +406,7 @@
           "text": "thx"
         }
       ],
-      "description": "Thanks"
+      "description": "Room booking chatbot skill"Thanks"
     }
   ],
   "entities": [
@@ -1330,5 +1330,5 @@
   "learning_opt_out": false,
   "name": "Room Booking",
   "language": "en",
-  "description": "Sample simple customer service skill to get you started."
+  "description": "Room booking chatbot skill"Sample simple customer service skill to get you started."
 }
